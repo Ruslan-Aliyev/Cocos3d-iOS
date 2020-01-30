@@ -8,7 +8,7 @@
 
 ## Results: camera orbits around the rotating cube and the rotating blender-model
 
-![](https://raw.githubusercontent.com/atabegruslan/Cocos3d-iOS/master/Illustrations/cocos3d1.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cocos3d-iOS/master/Illustrations/cocos3d1.PNG)
 						
 ## Key pieces of codes: The Scene .m file: 
 
